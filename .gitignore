@@ -1,0 +1,5 @@
+.venv
+.vs
+data/*.json
+.vscode
+data/all-cards-20241109223418.json
